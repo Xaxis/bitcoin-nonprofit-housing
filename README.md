@@ -1,11 +1,11 @@
 ---
-title: "Bitcoin Nonprofit Housing: Turning a 5-Unit Juneau Building Into a Transparent, Tenant-First Experiment"
+title: "Bitcoin Nonprofit Housing: Turning a 5-Unit Juneau Building Into a Transparent, Incentive-Aligned Experiment"
 description: "A practical blueprint for converting a small Juneau rental into a Bitcoin-powered nonprofit that stabilizes rent, shares upside with tenants, and funds repairs from an on-chain reserve. This is about feasibility, incentives, and why it works in the real world."
 pubDate: 2025-08-22
 tags: ["Bitcoin", "housing", "nonprofit", "Juneau", "real estate", "Lightning", "proof of reserves", "community"]
 ---
 
-# Bitcoin Nonprofit Housing: Turning a 5-Unit Juneau Building Into a Transparent, Tenant-First Experiment
+# Bitcoin Nonprofit Housing: Turning a 5-Unit Juneau Building Into a Transparent, Incentive-Aligned Experiment
 
 I stumbled into an idea on a podcast that made me stop what I was doing and take notes. The short version: convert a normal rental into a nonprofit that takes rent in Bitcoin, transparently holds that Bitcoin on chain as a building reserve, and gives tenants upside through a simple, mechanical rent credit whenever the Bitcoin they paid appreciates. When the roof needs replacing or the windows need upgrading, you do not hike the rent. You use the reserve. Over time, rents in sats trend down, major repairs are prepaid, and everyone has line of sight into exactly where the money is and why.
 
